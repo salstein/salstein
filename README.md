@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salstein&label=Profile%20views&color=0e75b6&style=flat" alt="salstein" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/sals_stein" target="blank"><img src="https://img.shields.io/twitter/follow/sals_stein?logo=twitter&style=for-the-badge" alt="sals_stein" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sal_sstein" target="blank"><img src="https://img.shields.io/twitter/follow/sal_sstein?logo=twitter&style=for-the-badge" alt="sal_sstein" /></a> </p>
 
-- 🔭 I’m currently working on **Silicio**
+- 🔭 I’m currently working on **Silicio, Bond, FoodMo, and MaTe**
 
 - 🌱 I’m currently learning **Google Cloud Platform**
 
