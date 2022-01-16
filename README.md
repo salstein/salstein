@@ -29,7 +29,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/salstein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="salstein" height="30" width="40" /></a>
-<a href="https://twitter.com/sal_sstein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sals_stein" height="30" width="40" /></a>
+<a href="https://twitter.com/sal_sstein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sal_sstein" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/salako-oluwaseun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salako-oluwaseun" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14396981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14396981" height="30" width="40" /></a>
 <a href="https://fb.com/salako oluwaseun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salako oluwaseun" height="30" width="40" /></a>
