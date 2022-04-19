@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Salako Oluwaseun</h1>
-<h3 align="center">Methodical, client-focused flutter developer, with 2 years of experience in Google Flutter Cross-Platform framework. Proficient with Object-Oriented programming languages, as well as algorithms, data Structures and machine learning. Enjoys collaborating, Learning, and building cultures of cross-functional working to provide a greater platform for the success of projects.</h3>
+<h3 align="center">Methodical, client-focused flutter developer, with 3 years of experience in Google Flutter Cross-Platform framework. Proficient with Object-Oriented programming languages, as well as algorithms, data Structures and machine learning. Enjoys collaborating, Learning, and building cultures of cross-functional working to provide a greater platform for the success of projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salstein&label=Profile%20views&color=0e75b6&style=flat" alt="salstein" /> </p>
 
